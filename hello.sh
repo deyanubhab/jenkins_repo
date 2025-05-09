@@ -1,5 +1,5 @@
+echo "CI is implemented" >new.txt
+:wq
 
-cal
-echo "Hello world" >CI.txt
 
 
